@@ -209,7 +209,7 @@
 		"postcss-loader": "^2.0.8",
 		"postcss-url": "^7.2.1",
 		"prerender-spa-plugin": "^3.2.1",
-		"puppeteer": "^1.2.0",
+		"puppeteer": "^1.13.0",
 		"require-dir": "^0.3.0",
 		"requirejs": "^2.3.5",
 		"rimraf": "^2.6.0",
