@@ -120,7 +120,7 @@
 		"electron-remote": "^1.2.0",
 		"electron-updater": "^2.21.8",
 		"eventsource-polyfill": "^0.9.6",
-		"moment": "^2.22.1",
+		"moment": "^2.29.4",
 		"pdfmake": "^0.1.36",
 		"promise-polyfill": "7.1.2",
 		"qrious": "^4.0.2",
